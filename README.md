@@ -1,2 +1,7 @@
-# redux_reddit_example
-Implementation of the Example: Reddit API here: http://redux.js.org/docs/advanced/ExampleRedditAPI.html using create-react-app
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+Usage:
+  yarn install
+  yarn start
+  
+  navigate to localhost:3000
